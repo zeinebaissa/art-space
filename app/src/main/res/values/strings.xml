@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="desert">Desert</string>
+    <string name="desert_year">2024</string>
+    <string name="frozen"> Frozen</string>
+    <string name="frozen_year">2023</string>
+    <string name="nature">Nature</string>
+    <string name="nature_year">2022</string>
+    <string name="spring">Spring</string>
+    <string name="spring_year">2021</string>
+</resources>
